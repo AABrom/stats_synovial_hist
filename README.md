@@ -1,7 +1,4 @@
 # stats_synovial_hist
-Statistical analysis of clinical and histological patient's data. Descriptive, correlation analysis, ANOVA, multiple comparison.
-______________________________________________________________________________
-### Методы
 ______________________________________________________________________________
 ### Источник данных https://data.mendeley.com/datasets/cz3xt8mbpn/1
 Jamal, Juliana; Roebuck, Margaret ; Wood, Amanda; Santini, Alasdair; Bou-Gharios, George; Wong, Pooi-Fong (2022), “Synovial tissues histology from patients with end-stage osteoarthritis, soft tissue and traumatic injuries of the knee ”, Mendeley Data, V1, doi: 10.17632/cz3xt8mbpn.1
